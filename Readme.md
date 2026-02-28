@@ -1,4 +1,4 @@
-## Directions
+## Notes
 
 - Place the `Desktop` folder and `keyboard-lock.sh` script in your home directory.  
 
