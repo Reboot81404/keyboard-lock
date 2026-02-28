@@ -1,6 +1,6 @@
 ## Notes
 
-- Place the `Desktop` folder and `keyboard-lock.sh` script in your home directory.  
+- Place the `Desktop` folder and `keyboard-toggle.sh` script in your home directory.  
 
 - The `app-icons` folder should be located at `/home/User/.local/share/app-icons`, or you can choose another location if desired.
 
