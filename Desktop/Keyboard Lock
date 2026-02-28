@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Keyboard Lock
+Exec=/home/Username/keyboard-toggle.sh
+Icon=/home/Username/.local/share/app-icons/keyboard.png
+Terminal=false
+Categories=Utility;
