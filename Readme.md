@@ -12,8 +12,8 @@
 > xinput list | grep -i keyboard
 > ```
 
-- You can also add aplication launcher with
+- You can also add aplication launcher with  this command
 > ```
 > cp ~/Desktop/Keyboard\ Lock ~/.local/share/applications/keyboard-lock.desktop
 > ```
- this command
+
