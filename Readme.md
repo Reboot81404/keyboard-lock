@@ -1,8 +1,6 @@
-## Keyboard-lock
-
 A script that disables the keyboard when executed and re-enables it the next time it is executed.
 
-# Notes 
+## Notes 
 
 - Place the `Desktop` folder and `keyboard-toggle.sh` script in your home directory.  
 
